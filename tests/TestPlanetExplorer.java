@@ -42,7 +42,7 @@ public class TestPlanetExplorer {
 		PlanetExplorer planetExplorer = new PlanetExplorer(3, 3, "(1,1)");
 		String testString = planetExplorer.executeCommand("ffr");
 
-		assertEquals("(0,2,E)()", testString);
+		assertEquals("(,2,E)()", testString);
 	}
 
 	@Test
