@@ -1,9 +1,18 @@
 
 // Before submitting write your ID and finish time here. Your ID is written on project description sheets.
-// ID:
+// ID:2515043
 // Finish time:
 
 public class PlanetExplorer {
+	
+	int positionX; 
+		int positionY; 
+		String direction; 
+		String obstacles; 
+		String encounteredObstacles; 
+		int gridX; 
+	 	int gridY; 
+
 
 	public PlanetExplorer(int x, int y, String obstacles) {
 		/*
@@ -17,9 +26,7 @@ public class PlanetExplorer {
 		 * PlanetExplorer(100,100,"(5,5)(7,8)")
 		 * 
 		 */
-		x = 100;
-		y = 100;
-		obstacles = "(5,5)(7,8)";
+		
 
 	}
 
@@ -38,7 +45,29 @@ public class PlanetExplorer {
 		 * string should also contain a list of coordinates of the encountered
 		 * obstacles. No white spaces.
 		 */
+		String returnString = "";
+		char[] commands = command.toCharArray();
+		setEncounteredObstacles("");
 
-		return null;
+		for (int i = 0; i < commands.length; i++) {
+			updatePosition(String.valueOf(commands[i]));
+		}
+
+		if (encounteredObstacles.equals("")) {
+			encounteredObstacles = "()";
+		}
+
+		returnString = "(" + positionX + "," + positionY + "," + direction + ")" + encounteredObstacles;
+
+		return returnString;
+
 	}
+	
+	
+	
+	
+	
+	
+	
+	
 }
