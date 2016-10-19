@@ -38,3 +38,6 @@ RefactoringAction 1476880401070 TestPlanetExplorer.java ADD void testExecuteComm
 RefactoringAction 1476880401071 TestPlanetExplorer.java ADD void testExecuteCommandRFFFRrightBorder() METHOD
 RefactoringAction 1476880401072 TestPlanetExplorer.java ADD void testGetObstacles() METHOD
 EditAction 1476880604572 TestPlanetExplorer.java 2599 10 34 14
+UnitTestCaseAction 1476880608477 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1476880608483 TestPlanetExplorer.java FAIL
+EditAction 1476880726683 TestPlanetExplorer.java 2599 10 34 14

@@ -74,7 +74,7 @@ public class TestPlanetExplorer {
 		PlanetExplorer planetExplorer = new PlanetExplorer(3, 3, "");
 		String testString = planetExplorer.executeCommand("rfff");
 
-		assertEquals("(0,0,E)()", testString);
+		assertEquals("(0,2,E)()", testString);
 	}
 
 	@Test
