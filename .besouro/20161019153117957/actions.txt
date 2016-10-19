@@ -1,2 +1,40 @@
 FileOpenedAction 1476880278029 TestPlanetExplorer.java 2635 1 0 0
 EditAction 1476880304908 TestPlanetExplorer.java 2635 1 0 0
+CompilationAction 1476880308068 TestPlanetExplorer.java
+CompilationAction 1476880308071 TestPlanetExplorer.java
+CompilationAction 1476880308071 TestPlanetExplorer.java
+CompilationAction 1476880308072 TestPlanetExplorer.java
+CompilationAction 1476880308073 TestPlanetExplorer.java
+CompilationAction 1476880308074 TestPlanetExplorer.java
+CompilationAction 1476880308075 TestPlanetExplorer.java
+CompilationAction 1476880308076 TestPlanetExplorer.java
+CompilationAction 1476880308077 TestPlanetExplorer.java
+CompilationAction 1476880308077 TestPlanetExplorer.java
+CompilationAction 1476880308078 TestPlanetExplorer.java
+CompilationAction 1476880308079 TestPlanetExplorer.java
+CompilationAction 1476880308079 TestPlanetExplorer.java
+CompilationAction 1476880308080 TestPlanetExplorer.java
+CompilationAction 1476880308081 TestPlanetExplorer.java
+CompilationAction 1476880308082 TestPlanetExplorer.java
+CompilationAction 1476880308082 TestPlanetExplorer.java
+CompilationAction 1476880308083 TestPlanetExplorer.java
+CompilationAction 1476880308084 TestPlanetExplorer.java
+CompilationAction 1476880308085 TestPlanetExplorer.java
+CompilationAction 1476880308085 TestPlanetExplorer.java
+CompilationAction 1476880308086 TestPlanetExplorer.java
+CompilationAction 1476880308087 TestPlanetExplorer.java
+CompilationAction 1476880308087 TestPlanetExplorer.java
+CompilationAction 1476880308088 TestPlanetExplorer.java
+RefactoringAction 1476880381020 TestPlanetExplorer.java RENAME test_executeCommand()=>void testUpdatePositionF() METHOD
+RefactoringAction 1476880399040 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+RefactoringAction 1476880401058 TestPlanetExplorer.java ADD void testUpdatePositionF() METHOD
+RefactoringAction 1476880401060 TestPlanetExplorer.java ADD void testExecuteCommandFFRF() METHOD
+RefactoringAction 1476880401064 TestPlanetExplorer.java ADD void testExecuteCommandFFLLLF() METHOD
+RefactoringAction 1476880401065 TestPlanetExplorer.java ADD void testExecuteCommandFBFFRF() METHOD
+RefactoringAction 1476880401066 TestPlanetExplorer.java ADD void testExecuteCommandFFR() METHOD
+RefactoringAction 1476880401067 TestPlanetExplorer.java ADD void testExecuteCommandFFRFwithObstacle02() METHOD
+RefactoringAction 1476880401069 TestPlanetExplorer.java ADD void testExecuteCommandFFRFwithObstacle02and11() METHOD
+RefactoringAction 1476880401070 TestPlanetExplorer.java ADD void testExecuteCommandFFFtopBorder() METHOD
+RefactoringAction 1476880401071 TestPlanetExplorer.java ADD void testExecuteCommandRFFFRrightBorder() METHOD
+RefactoringAction 1476880401072 TestPlanetExplorer.java ADD void testGetObstacles() METHOD
+EditAction 1476880604572 TestPlanetExplorer.java 2599 10 34 14
