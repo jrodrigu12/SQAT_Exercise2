@@ -19,3 +19,17 @@ RefactoringAction 1476878542560 PlanetExplorer.java ADD String encounteredObstac
 RefactoringAction 1476878542561 PlanetExplorer.java ADD int gridX FIELD
 RefactoringAction 1476878542562 PlanetExplorer.java ADD int gridY FIELD
 EditAction 1476878557380 PlanetExplorer.java 1870 2 7 0
+CompilationAction 1476878559579 PlanetExplorer.java
+CompilationAction 1476878559582 PlanetExplorer.java
+RefactoringAction 1476878632355 PlanetExplorer.java ADD int getPositionX() METHOD
+RefactoringAction 1476878632360 PlanetExplorer.java ADD void setPositionX(int) METHOD
+RefactoringAction 1476878632361 PlanetExplorer.java ADD int getPositionY() METHOD
+RefactoringAction 1476878632362 PlanetExplorer.java ADD void setPositionY(int) METHOD
+RefactoringAction 1476878632363 PlanetExplorer.java ADD String getObstacles() METHOD
+RefactoringAction 1476878632363 PlanetExplorer.java ADD void setObstacles(String) METHOD
+RefactoringAction 1476878632364 PlanetExplorer.java ADD String getDirection() METHOD
+RefactoringAction 1476878632365 PlanetExplorer.java ADD void setDirection(String) METHOD
+RefactoringAction 1476878632366 PlanetExplorer.java ADD String getEncounteredObstacles() METHOD
+RefactoringAction 1476878632367 PlanetExplorer.java ADD void setEncounteredObstacles(String) METHOD
+RefactoringAction 1476878632367 PlanetExplorer.java ADD void updatePosition(String) METHOD
+RefactoringAction 1476878632368 PlanetExplorer.java ADD boolean validateNewPosition(int, int) METHOD
